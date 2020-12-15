@@ -1,0 +1,19 @@
+{
+  "name": "generatehash",
+  "version": "1.0.1",
+  "description": "Generate a random hash. Supports MD5, SHA1, SHA256, and SHA512.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "hash",
+    "random",
+    "sha1",
+    "md5",
+    "sha256",
+    "sha512"
+  ],
+  "author": "",
+  "license": "ISC"
+}
